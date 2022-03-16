@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new stuff.
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on Discord bots
-- 📫 How to reach me XxCreeper7564xX#0440
+- 📫 How to reach me Akio#7422
 
 <!---
 XxCreeper7564xX/XxCreeper7564xX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
